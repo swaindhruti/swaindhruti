@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://share.creavite.co/679f19ba0ae0e4f686a689d6.gif" width="100%">
+</div>
+
 # Hi there, I'm Dhrutinandan Swain! 👋
 
 ### Full Stack Developer | From India 🇮🇳
@@ -30,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with exp
 </div>
 
 ---
-
 
 ### 📫 Let's Connect!
 
